@@ -10,36 +10,16 @@ export default function Skills() {
           </h6>
           <div className="row mt-top">
             <div className="col s6">
+              <p>REACT</p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '85%' }}
+                ></div>
+              </div>
+            </div>
+            <div className="col s6">
               <p>HTML</p>
-              <div className="progress grey lighten-1">
-                <div
-                  className="determinate blue"
-                  style={{ width: '89%' }}
-                ></div>
-              </div>
-            </div>
-            <div className="col s6">
-              <p>CSS</p>
-              <div className="progress grey lighten-1">
-                <div
-                  className="determinate blue"
-                  style={{ width: '100%' }}
-                ></div>
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col s6">
-              <p>JAVASCRIPT</p>
-              <div className="progress grey lighten-1">
-                <div
-                  className="determinate blue"
-                  style={{ width: '90%' }}
-                ></div>
-              </div>
-            </div>
-            <div className="col s6">
-              <p>PHP</p>
               <div className="progress grey lighten-1">
                 <div
                   className="determinate blue"
@@ -50,11 +30,31 @@ export default function Skills() {
           </div>
           <div className="row">
             <div className="col s6">
-              <p>MySQL</p>
+              <p>CSS</p>
               <div className="progress grey lighten-1">
                 <div
                   className="determinate blue"
                   style={{ width: '90%' }}
+                ></div>
+              </div>
+            </div>
+            <div className="col s6">
+              <p>JAVASCRIPT</p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '85%' }}
+                ></div>
+              </div>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col s6">
+              <p>GIT</p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '95%' }}
                 ></div>
               </div>
             </div>
