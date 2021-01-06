@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cv-website/static/css/main.f1dfb855.chunk.css",
+    "main.js": "/cv-website/static/js/main.fe6b8d88.chunk.js",
+    "main.js.map": "/cv-website/static/js/main.fe6b8d88.chunk.js.map",
+    "runtime-main.js": "/cv-website/static/js/runtime-main.65e5aaf3.js",
+    "runtime-main.js.map": "/cv-website/static/js/runtime-main.65e5aaf3.js.map",
+    "static/css/2.d88a60dc.chunk.css": "/cv-website/static/css/2.d88a60dc.chunk.css",
+    "static/js/2.b46c766d.chunk.js": "/cv-website/static/js/2.b46c766d.chunk.js",
+    "static/js/2.b46c766d.chunk.js.map": "/cv-website/static/js/2.b46c766d.chunk.js.map",
+    "index.html": "/cv-website/index.html",
+    "precache-manifest.dfd4af5c72cf2c5e24dbba5c974c9a4c.js": "/cv-website/precache-manifest.dfd4af5c72cf2c5e24dbba5c974c9a4c.js",
+    "service-worker.js": "/cv-website/service-worker.js",
+    "static/css/2.d88a60dc.chunk.css.map": "/cv-website/static/css/2.d88a60dc.chunk.css.map",
+    "static/css/main.f1dfb855.chunk.css.map": "/cv-website/static/css/main.f1dfb855.chunk.css.map",
+    "static/js/2.b46c766d.chunk.js.LICENSE.txt": "/cv-website/static/js/2.b46c766d.chunk.js.LICENSE.txt",
+    "static/media/person1.jpg": "/cv-website/static/media/person1.2ca1bbb4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65e5aaf3.js",
+    "static/css/2.d88a60dc.chunk.css",
+    "static/js/2.b46c766d.chunk.js",
+    "static/css/main.f1dfb855.chunk.css",
+    "static/js/main.fe6b8d88.chunk.js"
+  ]
+}
