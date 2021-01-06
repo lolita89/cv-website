@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60cdefa68052f42521a76468f252195b",
+    "revision": "76ce0465075078b75a4071648f5f1cd3",
     "url": "/cv-website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv-website/static/css/2.d88a60dc.chunk.css"
   },
   {
-    "revision": "d034293946990a3d5415",
+    "revision": "e2422464f773fe3fcc2e",
     "url": "/cv-website/static/css/main.f1dfb855.chunk.css"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv-website/static/js/2.b46c766d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d034293946990a3d5415",
-    "url": "/cv-website/static/js/main.05632df3.chunk.js"
+    "revision": "e2422464f773fe3fcc2e",
+    "url": "/cv-website/static/js/main.5285c6db.chunk.js"
   },
   {
     "revision": "34b2757fe09d631793b3",
     "url": "/cv-website/static/js/runtime-main.65e5aaf3.js"
   },
   {
-    "revision": "2ca1bbb42e6f4f0e3941356ec8e8dbb8",
-    "url": "/cv-website/static/media/person1.2ca1bbb4.jpg"
+    "revision": "166b2869c4657fc37b9209c57fe55472",
+    "url": "/cv-website/static/media/cikaPic.166b2869.jpg"
   }
 ]);
