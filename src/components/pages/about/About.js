@@ -9,10 +9,8 @@ export default function About() {
             <strong>ABOUT ME</strong>
           </h6>
           <p className="grey-text">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim
-            minima quod molestias numquam, cumque eveniet delectus dolore
-            laborum molestiae quis possimus eos dignissimos cupiditate ipsam
-            sunt doloremque commodi adipisci quasi?
+            I am an experienced(2 years) Frontend Developer who has a communication and business innovation background.
+            I have a passion for tech and innovation. I am positive, helpful, and eager to learn even more and continuously.
           </p>
         </div>
         <div className="card-action">
@@ -22,24 +20,21 @@ export default function About() {
           <div className="row mt">
             <div className="col xl6 l6 m6 s12">
               <p>
-                <strong>Address:</strong> 123 Lorem
+                <strong>Address:</strong> Diemen, The Netherlands
               </p>
               <p>
-                <strong>Email:</strong> test@yahoo.com
+                <strong>Email:</strong> cika.lolita@hotmail.com
               </p>
               <p>
-                <strong>Phone:</strong> 123 456 7898
+                <strong>Phone:</strong> +31683147415
               </p>
             </div>
             <div className="col xl6 l6 m6 s12">
               <p>
-                <strong>Main Language</strong> - English
+                <strong>Native Language</strong> - Indonesian
               </p>
               <p>
-                <strong>Second Language</strong> - Spanish
-              </p>
-              <p>
-                <strong>Third Language</strong> - Chinese
+                <strong>Second Language</strong> - English
               </p>
             </div>
           </div>
