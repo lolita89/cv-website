@@ -11,44 +11,45 @@ export default function Experiences() {
           <div className="row mt-top">
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
-                Jan
-                <strong>2016</strong> - Mar
-                <strong>2017</strong>
+                03/
+                <strong>2020</strong> - 09/
+                <strong>2020</strong>
               </p>
             </div>
             <div className="col xl8 l8 m6 s12">
               <blockquote className="no-pad">
                 <h6 className="no-pad mt-bottom">
-                  <strong>WEB DEVELOPER</strong>
+                  <div>Frontend Developer</div>
+                  <strong className="blue-text">Wolfpack DCS</strong>
                 </h6>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam,
-                  earum doloribus dicta quod architecto, praesentium totam
-                  molestiae similique culpa repellat blanditiis nam facilis eius
-                  quaerat distinctio vitae, tenetur beatae repellendus?
-                </p>
+                <ul className="ul-list">
+                  <li>Developing a few web shops (E-commerce) with salesforce to the clients</li>
+                  <li>Working closely with a product manager, online marketer, andbackend developers</li>
+                  <li>Vanilla Javascript, jQuery, css, sass, git, Jira, and salesforce CMS</li>
+                </ul>
               </blockquote>
             </div>
           </div>
           <div className="row mt-top">
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
-                Jan
-                <strong>2016</strong> - Mar
-                <strong>2017</strong>
+                11/
+                <strong>2018</strong> - 02/
+                <strong>2020</strong>
               </p>
             </div>
             <div className="col xl8 l8 m6 s12">
               <blockquote className="no-pad">
                 <h6 className="no-pad mt-bottom">
-                  <strong>WEB DEVELOPER</strong>
+                  <div>Frontend Developer</div>
+                  <strong className="blue-text">Kentivo</strong>
                 </h6>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam,
-                  earum doloribus dicta quod architecto, praesentium totam
-                  molestiae similique culpa repellat blanditiis nam facilis eius
-                  quaerat distinctio vitae, tenetur beatae repellendus?
-                </p>
+                <ul className="ul-list">
+                  <li>Developing a few web applications to the clients</li>
+                  <li>Working closely with a product manager, UI/UX designer, and backend developers</li>
+                  <li>Javascript, jQuery, react, redux, css, styled component, material UI, Webpack, git and REST API</li>
+                </ul>
+            
               </blockquote>
             </div>
           </div>
