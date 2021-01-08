@@ -1,8 +1,14 @@
-import React from "react";
+import React, { useState } from "react";
 import { HashLink as Link } from "react-router-hash-link";
 import ImgProfile from "../../../images/cikaPic.jpg";
+import { cvData } from "../../../data";
 
 export default function Profile() {
+  const name = useState(cvData.map(data => data.name));
+  const title = useState(cvData.map(data => data.title));
+  const visaStatus = useState(cvData.map(data => data.visa_status));
+  const linkedinAddress = cvData.map(data => data.linkedin_address);
+  const githubAddress = cvData.map(data => data.github_address);
   return (
     <div>
       <div className="card">
@@ -18,9 +24,11 @@ export default function Profile() {
         </div>
         <div className="card-content">
           <span className="card-title activator grey-text text-darken-4">
-            Cika Lolita Sugiharto
+            {name}
           </span>
-          <p>Frontend Developer (Valid work visa in NL)</p>
+          <p>
+            {title} ({visaStatus})
+          </p>
         </div>
         <div className="card-reveal">
           <span className="card-title grey-text text-darken-4">
@@ -28,10 +36,10 @@ export default function Profile() {
             <i className="material-icons right">close</i>
           </span>
           <p className="flex-container">
-            <a href="https://github.com/lolita89">
+            <a href={githubAddress}>
               <i className="fab fa-github grey-text text-darken-4 social_style"></i>
             </a>
-            <a href="https://www.linkedin.com/in/cikalolita/">
+            <a href={linkedinAddress}>
               <i className="fab fa-linkedin grey-text text-darken-4 social_style"></i>
             </a>
           </p>

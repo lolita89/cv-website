@@ -1,6 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 export default function Experiences() {
+ const [year, setYear] = useState(2020)
+
   return (
     <div>
       <div className="card">
